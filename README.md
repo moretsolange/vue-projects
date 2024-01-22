@@ -1,1 +1,1 @@
-LIVE: https://github.com/moretsolange/vue-projects
+LIVE: https://moretsolange.github.io/vue-projects/

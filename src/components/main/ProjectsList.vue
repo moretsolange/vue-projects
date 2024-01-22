@@ -58,21 +58,23 @@
     </ul>
   </base-card>
   <base-card>
-    <li>
-      <a href="https://moretsolange.github.io/portfolio/" target="_blank"
-        >Back to Portfolio</a
-      >
-    </li>
-    <li>
-      <a href="https://moretsolange.github.io/javascriptmas/" target="_blank"
-        >Javascriptmas</a
-      >
-    </li>
-    <li>
-      <a href="https://moretsolange.github.io/mini-projects/" target="_blank"
-        >Mini projects</a
-      >
-    </li>
+    <ul>
+      <li>
+        <a href="https://moretsolange.github.io/portfolio/" target="_blank"
+          >Back to Portfolio</a
+        >
+      </li>
+      <li>
+        <a href="https://moretsolange.github.io/javascriptmas/" target="_blank"
+          >Javascriptmas</a
+        >
+      </li>
+      <li>
+        <a href="https://moretsolange.github.io/mini-projects/" target="_blank"
+          >Mini projects</a
+        >
+      </li>
+    </ul>
   </base-card>
 </template>
 

@@ -19,11 +19,31 @@
   <base-card>
     <ul>
       <li><a href="https://phasmodex.org/">Phasmodex</a></li>
-      <li><a href="">Restaurant</a></li>
-      <li><a href="">Friends</a></li>
-      <li><a href="">Forms</a></li>
-      <li><a href="">Resources</a></li>
-      <li><a href="">Routing</a></li>
+      <li>
+        <a href="https://moretsolange.github.io/vue-restaurant/dist/index.html"
+          >Restaurant</a
+        >
+      </li>
+      <li>
+        <a href="https://moretsolange.github.io/vue-friendslist/dist/index.html"
+          >Friends</a
+        >
+      </li>
+      <li>
+        <a href="https://moretsolange.github.io/vue-forms/dist/index.html"
+          >Forms</a
+        >
+      </li>
+      <li>
+        <a href="https://moretsolange.github.io/vue-resources/dist/index.html"
+          >Resources</a
+        >
+      </li>
+      <li>
+        <a href="https://moretsolange.github.io/vue-routing/dist/index.html"
+          >Routing</a
+        >
+      </li>
       <li><a href="">Coach App</a></li>
     </ul>
   </base-card>

@@ -18,34 +18,61 @@
   </base-card>
   <base-card>
     <ul>
-      <li><a href="https://phasmodex.org/">Phasmodex</a></li>
+      <li><a href="https://phasmodex.org/" target="_blank">Phasmodex</a></li>
       <li>
-        <a href="https://moretsolange.github.io/vue-restaurant/dist/index.html"
+        <a
+          href="https://moretsolange.github.io/vue-restaurant/dist/index.html"
+          target="_blank"
           >Restaurant</a
         >
       </li>
       <li>
-        <a href="https://moretsolange.github.io/vue-friendslist/dist/index.html"
+        <a
+          href="https://moretsolange.github.io/vue-friendslist/dist/index.html"
+          target="_blank"
           >Friends</a
         >
       </li>
       <li>
-        <a href="https://moretsolange.github.io/vue-forms/dist/index.html"
+        <a
+          href="https://moretsolange.github.io/vue-forms/dist/index.html"
+          target="_blank"
           >Forms</a
         >
       </li>
       <li>
-        <a href="https://moretsolange.github.io/vue-resources/dist/index.html"
+        <a
+          href="https://moretsolange.github.io/vue-resources/dist/index.html"
+          target="_blank"
           >Resources</a
         >
       </li>
       <li>
-        <a href="https://moretsolange.github.io/vue-routing/dist/index.html"
+        <a
+          href="https://moretsolange.github.io/vue-routing/dist/index.html"
+          target="_blank"
           >Routing</a
         >
       </li>
       <li><a href="">Coach App</a></li>
     </ul>
+  </base-card>
+  <base-card>
+    <li>
+      <a href="https://moretsolange.github.io/portfolio/" target="_blank"
+        >Back to Portfolio</a
+      >
+    </li>
+    <li>
+      <a href="https://moretsolange.github.io/javascriptmas/" target="_blank"
+        >Javascriptmas</a
+      >
+    </li>
+    <li>
+      <a href="https://moretsolange.github.io/mini-projects/" target="_blank"
+        >Mini projects</a
+      >
+    </li>
   </base-card>
 </template>
 

@@ -54,7 +54,11 @@
           >Routing</a
         >
       </li>
-      <li><a href="">Coach App</a></li>
+      <li>
+        <a href="https://moretsolange.github.io/main-prj/dist/index.html"
+          >Coach App</a
+        >
+      </li>
     </ul>
   </base-card>
   <base-card>

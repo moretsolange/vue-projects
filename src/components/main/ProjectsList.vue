@@ -55,9 +55,7 @@
         >
       </li>
       <li>
-        <a href="https://moretsolange.github.io/main-prj/dist/index.html"
-          >Coach App</a
-        >
+        <a href="">Coach App</a>
       </li>
     </ul>
   </base-card>
